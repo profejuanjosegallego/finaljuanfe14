@@ -1,0 +1,30 @@
+.colorPrincipal{
+    background-color: #C393C8;
+}
+
+.btn-primary{
+     background-color: #C393C8 !important;
+     border-color: #C393C8 !important;
+}
+
+.btn-primary:hover{
+     background-color: #C393C8 !important;
+     border-color: #C393C8 !important;
+}
+
+
+.fondo{
+     background-image: url("./img/fondo.jpg");
+     background-position: top center;
+     background-size: cover;
+     padding: 25%;
+     background-attachment: fixed;
+}
+
+.fondo2{
+     background-image: url("./img/fondo2.webp");
+     background-position: top center;
+     background-size: cover;
+     padding: 25%;
+     background-attachment: fixed;
+}

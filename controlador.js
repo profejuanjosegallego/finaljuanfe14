@@ -16,4 +16,10 @@ boton.addEventListener("click",function(evento){
         contraseña:cajaContraseña.value
     }
 
+    Swal.fire({
+        title: "Bienvenido!",
+        text: "Has sido registrado",
+        icon: "success"
+    });
+
 })
